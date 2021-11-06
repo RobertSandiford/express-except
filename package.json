@@ -1,0 +1,9 @@
+{
+  "name": "express-except",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "express": ">=4.0"
+  }
+}
